@@ -2,7 +2,7 @@
 
 每年至少会分享不少于`200篇`的优质文章，如果想第一时间获取文章，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)。
 
-[【B站】](https://space.bilibili.com/31089477)首发视频，比博客早一到两篇
+一个很香的 AI 平台：GPT-5.6 0.08 倍率 和 Claude Code 4.8 只要 0.25倍率，包含 image-2生图。重点是 首字请求都在 5s 内。入口：https://ai.aiyuhub.com
 
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
